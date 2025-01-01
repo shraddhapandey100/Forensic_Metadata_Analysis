@@ -4,7 +4,7 @@ This project provides a comprehensive framework for analyzing the metadata of re
 
 ## Features:
 - **Data Acquisition**: Extract data using forensic tools like FTK Imager and Autopsy.  
-- **Metadata Extraction**: Retrieve crucial metadata using ExifTool and other methods.  
+- **Metadata Extraction**: Retrieve crucial metadata using ExifTool and Python.  
 - **Metadata Analysis**: Analyze data using machine learning techniques for event reconstruction.  
 - **Data Visualization**: Present findings effectively with Python-based visualizations.  
 - **File Carving**: Recover deleted files from unallocated disk space.
