@@ -1,4 +1,4 @@
-# WhatsApp Metadata Analysis Framework for Forensics
+# WhatsApp Metadata Analysis Framework for Digital Forensics 
 
 This project provides a comprehensive framework for analyzing the metadata of recovered deleted WhatsApp files on Windows. The framework assists forensic investigators in reconstructing events and preparing legal reports based on metadata extracted from WhatsApp files.
 
